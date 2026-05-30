@@ -7,5 +7,6 @@ Use these templates for debugging STM32 with ccortex-debug and CubeIDE extension
 5. Write the code and paste the template files in the vscode folder or just copy ad paste the vscode folder into there if there  isn't one already
 6. Edit the files as per requirements (just tell copilot to do it)
 7. Go to run and debug tab and click the Debug (Cortex-Debug)
-8. You can now debug with accurate register control and access in VSCode and many more features. see cortex-debug docs for more info
+8. You can now debug with accurate register control and access in VSCode and many more features. see cortex-debug docs for more info.
+\n
 Next time, just paste these files and debug peacefully! (actually, debugging is not very peaceful)
